@@ -1,6 +1,8 @@
   # Exercise Journal
 
   ![License](https://img.shields.io/badge/license-MIT-blue)
+  
+  [Link to Site](https://workout-journal-app.herokuapp.com/?id=5fab35a50e4ac10017962699)
 
   ## Description
   * This application will allow you to keep track of your exercises! Wether you're lifting weights or going for a jog, this app will allow you to take note of everything you do.
